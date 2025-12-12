@@ -3317,5 +3317,101 @@
     "credentials": [
       "https://compliance.agrospai.udl.cat/.well-known/Martirbas1000.vp.json"
     ]
+  },
+  "0xf45C1dEeA721778Ef95027C8e751d84d1885f78e": {
+    "name": "Comercialització Avícola Subirats SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/ComercialitzacioAvicolaSubirats.vp.json"
+    ]
+  },
+  "0xd40b6e0873159e9e71D9f7a9Fa764Ef342d3d654": {
+    "name": "PROLEC SA",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/PROLEC.vp.json"
+    ]
+  },
+  "0x71Bdc620651c65A62E998e57969491896e38F3C0": {
+    "name": "Pecus Veterinaria SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/PecusVet.vp.json"
+    ]
+  },
+  "0xbf5A2888E291A477f9FfD746d27cCd599c47a305": {
+    "name": "Didac Tomàs Comunicació SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/DTComunicacio.vp.json"
+    ]
+  },
+  "0xb74cdae0b0C80F9EFa38841ba4354Fe271412288": {
+    "name": "Pauonaada Soluciones Empresariales SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/PAUONAADA.vp.json"
+    ]
+  },
+  "0xdA00ba4f28335B294492744FB78740627dCE064f": {
+    "name": "DISI TALENT BCN SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/DISITALENT.vp.json"
+    ]
+  },
+  "0xFbd9289E2FDdDa9b532063DD059c4A3d006b5B30": {
+    "name": "Econutrients Biomarkets SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/ECONUTRIENTSBIOMARKET.vp.json"
+    ]
+  },
+  "0xC71Dc3Fb0410FBa013164c70a1C1e68400cb767A": {
+    "name": "Servicios Profesionales de la Formación Empresarial SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/FORMATE.vp.json"
+    ]
+  },
+  "0x38A1406CF0dCa1815f6f69f8C595226d039648B7": {
+    "name": "Optimal Artificial Social Intelligence Solutions SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/OASIS.vp.json"
+    ]
+  },
+  "0x031F4456Ed25a04369E66B6197D76374eF6E51df": {
+    "name": "Imagina Ràdio SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/IMAGINARADIO.vp.json"
+    ]
+  },
+  "0x0c41573f23856F23ee285399A248bB3d583EAfC3": {
+    "name": "LAU71 Serveis Integrals SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/LAU71.vp.json"
+    ]
+  },
+  "0x7e1Fa1181331230C79A987DcdBdf43844F541E05": {
+    "name": "FILAMAN SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/FILAMAN.vp.json"
+    ]
+  },
+  "0x549a283bFcc7b1791fADc9741C8a1bb04847d3fB": {
+    "name": "Terres de l'Ebre Comunicació Multimèdia SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/TERRESEBRECOMUNICACIO.vp.json"
+    ]
+  },
+  "0x02148423eB4Cee60D4603267f533ED64817b2AE9": {
+    "name": "Sie-Systems Packaging Solutions SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/SIE-SYSTEMS.vp.json"
+    ]
+  },
+  "0xC2Ea7061cBa715B8494A072C5180cc99DbaE6C03": {
+    "name": "CADEPA GLOBAL PACKAGING SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/CADEPA.vp.json"
+    ]
+  },
+  "0x2ff1666D1a7d7b0FaB16B505fAf048C196931a73": {
+    "name": "PuntDoc Consultors SL",
+    "credentials": [
+      "https://compliance.agrospai.udl.cat/.well-known/PUNTDOC.vp.json"
+    ]
   }
 }
